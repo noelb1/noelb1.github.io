@@ -17,6 +17,7 @@ Working on Microsoft Windows, with Microsoft Office, Apple OSX and Unix, corpora
 - 💞️ I’m looking to collaborate on copilot, python, prompt engineering, Azure openAI, USE YOUR OWN DATA
 - Also Love VINYLS 
 - 📫 How to reach me noel.black@outlook.com
+https://www.credly.com/badges/93d2a3f8-1075-4cd5-9409-a57503f83c69/public_url
 
 - <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="93d2a3f8-1075-4cd5-9409-a57503f83c69" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
