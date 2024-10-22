@@ -18,6 +18,9 @@ Working on Microsoft Windows, with Microsoft Office, Apple OSX and Unix, corpora
 - Also Love VINYLS 
 - 📫 How to reach me noel.black@outlook.com
 
+- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="93d2a3f8-1075-4cd5-9409-a57503f83c69" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 <!---
 noelb1/noelb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
